@@ -1,7 +1,6 @@
 # AmazonPriceTracker
 A program to track the price of products and notify the user if it goes down
 
-#########################################################################################################################################################################
 ## This program works only for GMAIL accounts
 
 For this program to work the following steps must be followed
@@ -10,3 +9,6 @@ For this program to work the following steps must be followed
   by assigning recipient email as any other gmail account you have 
 
 3-There is a procedure to generate your own app password in GMAIL I found this youtube link to help with that https://www.youtube.com/shorts/5V_FiEHS0c8
+4- In my_dict.json you have to paste url of any product you want to buy and set the target price at which you want to buy the product
+
+Furthermore, we can also upload the project on plateforms like pythonAnywhere so that it can run automatically on a scheduled time 
